@@ -2,7 +2,7 @@
 
 This jar bundles swagger-ui 3.47.1.  It is implemented as a Jetty11 Servlet.
 
-You can add it to your jetty embeded [https://github.com/kscarr73/JettyEmbedded](JettyEmbeded) via:
+You can add it to your jetty embeded [JettyEmbeded](https://github.com/kscarr73/JettyEmbedded) via:
 
 ```java
 Map<String, String> apiDocs = new LinkedHashMap<>();
